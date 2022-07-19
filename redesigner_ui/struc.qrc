@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="struc">
+    <file>structure.png</file>
+  </qresource>
+</RCC>

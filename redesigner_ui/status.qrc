@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="status">
+    <file>OFF.png</file>
+    <file>on.png</file>
+  </qresource>
+</RCC>
